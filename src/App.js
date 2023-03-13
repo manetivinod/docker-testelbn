@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>An amazing startup idea !!.</p>
         <p>Assignment done. LearnCodeOnline wooo</p>
-        <p>added my own lines of code </p>
+        <p>added my own lines of code!! </p>
       </header>
     </div>
   );
